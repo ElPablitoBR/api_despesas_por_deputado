@@ -1,4 +1,4 @@
-# api_gastos_por_deputado
+# api_despesas_por_deputado
 
 Testando o consumo de APIs usando python.
 A API de despesas dos deputados é bem interessante, há muitas informações que podem nos ajudar a fiscalizar os nossos representants na câmara.
